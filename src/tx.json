@@ -1,0 +1,1 @@
+{"service":"test-service3","types":{"serverless":"serverless.yml"},"template":{"body?":"String","intent":["put","get","list"],"id":"String","buffer?":[true,false],"folder?":["String"]},"mock":{"service":"my-test-service","name":"myTestService2","args":[{"body":"test","intent":"put","id":"/test","config":{"buffer":false}}]}}
